@@ -1,6 +1,6 @@
 [
   {
-    "api": "https://api.apilyzy.com/api.php/provide/vod/",
+    "api": "https://api.apilyzy.com/api.php/provide/vod/at/json",
     "name": "🔞老鸭资源",
     "noHistory": true,
     "isLock": true
@@ -12,7 +12,7 @@
     "isLock": true
   },
   {
-    "api": "http://fhapi9.com/api.php/provide/vod/",
+    "api": "http://fhapi9.com/api.php/provide/vod/at/json",
     "name": "🔞番号资源",
     "noHistory": true,
     "isLock": true
@@ -24,7 +24,7 @@
     "isLock": true
   },
   {
-    "api": "https://jkunzyapi.com/api.php/provide/vod/",
+    "api": "https://jkunzyapi.com/api.php/provide/vod/at/json",
     "name": "🔞鸡坤资源",
     "noHistory": true,
     "isLock": true
@@ -60,7 +60,7 @@
     "isLock": true
   },
   {
-    "api": "https://api.ddapi.cc/api.php/provide/vod/",
+    "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
     "name": "🔞滴滴资源",
     "noHistory": true,
     "isLock": true
